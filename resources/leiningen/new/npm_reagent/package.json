@@ -1,0 +1,21 @@
+{
+  "name": "{{name}}",
+  "version": "0.0.1",
+  "description": "{{name}}",
+  "repository": "https://github.com/{{name}}/{{name}}.git",
+  "private": true,
+  "scripts": {
+    "dev": "shadow-cljs watch app",
+    "release": "shadow-cljs release app",
+    "clean": "rm -rf target && rm -rf public/js",
+    "clean-win": "rmdir /s /q public/js & rmdir /s /q target"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.3.30"
+  },
+  "dependencies": {
+    "create-react-class": "15.6.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  }
+}
