@@ -20,13 +20,13 @@ FIXME
 
 To Run locally:
 
-    #bash: shadow-cljs watch app
+    #bash: npm run dev
 
 ## Deploying
 
 To create a deployable
 
-    $bash: shadow-cljs release app
+    $bash: npm run release
     
 You will also need FIXME
 
