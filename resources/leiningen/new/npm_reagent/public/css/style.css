@@ -217,13 +217,13 @@ hr {
   border-top-right-radius: 6px;
 }
 
-.{{name}} .gig__body p {
+.{{name}} .{{name}}__body p {
   padding: .8rem;
   font-size: 1rem;
   line-height: 1.4;
 }
 
-.{{name}} .gig__footer {
+.{{name}} .{{name}}__footer {
   padding: .8rem;
 }
 
@@ -241,7 +241,7 @@ hr {
   padding-top: 0;
 }
 
-.gig__artwork:first-child {
+.{{name}}__artwork:first-child {
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
 }
@@ -251,7 +251,7 @@ hr {
   border-bottom-right-radius: 6px;
 }
 
-.{{name}} .gig__body .gig__title {
+.{{name}} .{{name}}__body .{{name}}__title {
   padding: .8rem;
   padding-bottom: 0;
   font-size: 1rem;
@@ -260,28 +260,28 @@ hr {
 	color: var(--secondary);
 }
 
-.{{name}} .gig__body .gig__price {
+.{{name}} .{{name}}__body .{{name}}__price {
   padding-top: .1rem;
   width: 100%;
   color: var(--primary-alpha);
 }
 
-.{{name}} .gig__body .gig__desc {
+.{{name}} .{{name}}__body .{{name}}__desc {
   font-size: .8rem;
   padding-bottom: .8rem;
 }
 
-.gig__artwork {
+.{{name}}__artwork {
   width: 100%;
 }
 
-.gig__edit {
+.{{name}}__edit {
   width: 100%;
   opacity: 1;
   transition: opacity 0.3s ease-in-out;
 }
 
-.gig__edit:hover {
+.{{name}}__edit:hover {
   cursor:pointer;
   opacity: 0.4
 }
