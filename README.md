@@ -1,7 +1,6 @@
 # npm-reagent
 
-A Leiningen template for creating useful and productive GAE apps in Clojure 
-using the GAE Java SDK.
+A Leiningen template for creating useful and productive [Reagent](https://reagent-project.github.io/) apps in Clojure.
 
 ## Release 0.0.1
 
