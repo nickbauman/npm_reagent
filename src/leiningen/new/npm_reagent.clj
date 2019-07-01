@@ -23,7 +23,7 @@
              ["public/index.html" (render "public/index.html" data)]
              ["public/css/style.css" (render "public/css/style.css" data)]
              ["public/img/{{name}}-icon.png" (raw-copy "public/img/npm-reagent-icon.png" data)]
-             ["public/img/{{name}}-logo.png" (raw-copy "public/img/npm-reagent-logo.svg" data)]
+             ["public/img/{{name}}-logo.svg" (raw-copy "public/img/npm-reagent-logo.svg" data)]
 
              ; {{name}} package
              ["src/{{sanitized}}/core.cljs" (render "src/npm_reagent/core.cljs" data)]
