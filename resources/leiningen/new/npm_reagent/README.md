@@ -20,7 +20,7 @@ FIXME
 
 To Run locally:
 
-    #bash: npm run dev
+    $bash: npm run dev
 
 ## Deploying
 
