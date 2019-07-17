@@ -4,7 +4,7 @@ A Leiningen template for creating useful and productive [Reagent](https://reagen
 
 ## Release 0.0.1
 
-Leiningen Clojars dependency: TODO has not been pushed up yet
+Leiningen Clojars dependency
 
 ```clojure
 [org.clojars.nickbauman/npm-reagent "0.1.0"]  
