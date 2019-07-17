@@ -1,8 +1,9 @@
 # npm-reagent
 
-A Leiningen template for creating useful and productive [Reagent](https://reagent-project.github.io/) apps in Clojure.
+A Leiningen template for creating useful and productive [Reagent](https://reagent-project.github.io/) apps in Clojure 
+using a more typical npm-oriented toolchain.
 
-## Release 0.0.1
+## Release 0.1.0
 
 Leiningen Clojars dependency
 
