@@ -7,7 +7,7 @@ A Leiningen template for creating useful and productive [Reagent](https://reagen
 Leiningen Clojars dependency: TODO has not been pushed up yet
 
 ```clojure
-[org.clojars.nickbauman/npm-reagent "0.0.1"]  
+[org.clojars.nickbauman/npm-reagent "0.1.0"]  
 ```
 
 ## Installation 
